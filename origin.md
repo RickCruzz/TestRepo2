@@ -14,3 +14,5 @@ changing inside the origin file but in the dev branch.
 1+1 = 2
 
 :)
+
+# RELEASE 1.0
